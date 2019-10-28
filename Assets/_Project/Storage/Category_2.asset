@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59742dc0b606b34468c55b9e0886a906, type: 3}
+  m_Name: Category_2
+  m_EditorClassIdentifier: 
+  nameCategory: DESTAQUES 2
+  logoCategory: {fileID: 0}
+  showJustContents: 1
+  contents:
+  - prefabModel: {fileID: 1582617171645364, guid: f2765bd75064e9449b69bb12a6563241,
+      type: 2}
+    name: INFINITY GRANDE
+    price: 0
+    linkProduct: https://www.google.com.br/search?q=INFINITY+GRANDE&oq=INFINITY+GRANDE&aqs=chrome..69i57j0l5.425j0j9&sourceid=chrome&ie=UTF-8
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 4cba159db2ab8694c98c616aac575ecf, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+  - prefabModel: {fileID: 1049501882778178, guid: 951222428a9e47f46a7171a5844aad3c,
+      type: 2}
+    name: NET VASO TERRACOTA
+    price: 0
+    linkProduct: https://www.google.com.br/search?ei=Rkw8W-r_JIWwwATIn5vYCA&q=%09NET+VASO+TERRACOTA&oq=%09NET+VASO+TERRACOTA&gs_l=psy-ab.3...14447.14447.0.14753.1.1.0.0.0.0.162.162.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.GrlexMZzST4
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 94d9b283fdb286b468567d47297507b2, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}

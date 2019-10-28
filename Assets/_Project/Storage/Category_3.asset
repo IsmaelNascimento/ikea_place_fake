@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59742dc0b606b34468c55b9e0886a906, type: 3}
+  m_Name: Category_3
+  m_EditorClassIdentifier: 
+  nameCategory: DESTAQUES 3
+  logoCategory: {fileID: 0}
+  showJustContents: 1
+  contents:
+  - prefabModel: {fileID: 1302005778618846, guid: c28ce070d3097124b941074ddbb3e80e,
+      type: 2}
+    name: NET LUMINARIA 4 LADOS
+    price: 0
+    linkProduct: https://www.google.com.br/search?ei=Vkw8W77SEoOgwgSV4Jy4DA&q=NET+LUMINARIA+4+LADOS&oq=NET+LUMINARIA+4+LADOS&gs_l=psy-ab.3...102550.102550.0.102791.1.1.0.0.0.0.160.160.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.QjH7fylmh-M
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 8366798bb0935f84180d2a131bf5b737, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+  - prefabModel: {fileID: 1634690057969664, guid: e23fe301e43d7d24e96b0ad21adb9c61,
+      type: 2}
+    name: NET LUMNARIA 8 LADOS
+    price: 0
+    linkProduct: https://www.google.com.br/search?ei=vUw8W5CnK8GawATOqpfYAw&q=NET+LUMNARIA+8+LADOS&oq=NET+LUMNARIA+8+LADOS&gs_l=psy-ab.3...51204.51204.0.51781.1.1.0.0.0.0.155.155.0j1.1.0....0...1c.1.64.psy-ab..0.0.0....0.GuAkX330BQA
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 9ba8d0759e7e6b44fbb36860d096aa60, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}

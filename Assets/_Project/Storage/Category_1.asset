@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59742dc0b606b34468c55b9e0886a906, type: 3}
+  m_Name: Category_1
+  m_EditorClassIdentifier: 
+  nameCategory: DESTAQUES 1
+  logoCategory: {fileID: 0}
+  showJustContents: 1
+  contents:
+  - prefabModel: {fileID: 1378367733028696, guid: a102718e20b248144ac418ff2897461f,
+      type: 2}
+    name: CHAMP
+    price: 0
+    linkProduct: https://www.google.com.br/search?q=CHAMP&oq=CHAMP&aqs=chrome..69i57j69i60l3.240j0j7&sourceid=chrome&ie=UTF-8
+    colors: []
+    images:
+    - {fileID: 21300000, guid: a0838615e2d65c34ea8f31126c152774, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+  - prefabModel: {fileID: 1485263758918492, guid: f74bc43ae83ace3469352ffce8caf22e,
+      type: 2}
+    name: COCCON
+    price: 0
+    linkProduct: https://www.google.com.br/search?ei=sUs8W6fVLoiFwgSZrLSwAQ&q=COCOON&oq=COCOON&gs_l=psy-ab.3..0i203k1l10.9860.11775.0.12029.10.7.2.1.1.0.153.979.0j7.7.0....0...1c.1.64.psy-ab..0.10.984...0j35i39k1j0i67k1j0i10k1.0.ZIODfbxu4SY
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 603b99822cba08241804f145748486cd, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+  - prefabModel: {fileID: 1274181237325954, guid: 59771468d6eb1564a904c5a4e3d41aaa,
+      type: 2}
+    name: INCUBE GRANDE
+    price: 0
+    linkProduct: https://www.google.com.br/search?ei=vks8W4GvOYfCwATUwYWoAQ&q=INCUBE+GRANDE&oq=INCUBE+GRANDE&gs_l=psy-ab.3..33i160k1.25106.25106.0.26026.1.1.0.0.0.0.156.156.0j1.1.0....0...1c.1.64.psy-ab..0.1.156....0._jCufDk4GaU
+    colors: []
+    images:
+    - {fileID: 21300000, guid: 5f5c0d7377734954b8f27c6d3595e746, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
+    - {fileID: 21300000, guid: 76a21d138e6c18a4a89633e0bfb7c220, type: 3}
